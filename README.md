@@ -49,3 +49,9 @@ Impact Credits are internal-use-only, never financial or tradable. Regeneration 
 ---
 
 > “CarbonYield turns your climate support into a multi-cycle force for verified change.”
+
+---
+
+## 📄 License
+
+This documentation is shared under a [Creative Commons Attribution 4.0 License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
