@@ -55,3 +55,10 @@ Impact Credits are internal-use-only, never financial or tradable. Regeneration 
 ## 📄 License
 
 This documentation is shared under a [Creative Commons Attribution 4.0 License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+## 🧑‍💻 Maintainer
+
+Created and maintained by [Sukallin 'Almond' Sugumalwang](https://github.com/almond_sug)  
+Contact: [hello@carbonyield.net](mailto:hello@carbonyield.net)
